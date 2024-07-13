@@ -180,42 +180,6 @@ html, body {
     background: #3a84e8;
 }
 
-
-/* 页脚 */
-#footer {
-    width: 100%;
-    position: fixed;
-    z-index: 100;
-    bottom: 0;
-    left: 0;
-    height: 40px;
-    line-height: 40px;
-    font-size: 12px;
-    overflow: hidden;
-    background-color: #fafafa;
-    padding: 0 20px;
-}
-
-#footer li {
-    list-style: none;
-    display: inline-block;
-    float: left;
-    padding: 0 10px;
-}
-
-.footer-left, .footer-left a {
-    color: #9195a3;
-    text-decoration: none;
-}
-
-.footer-right {
-    float: right;
-}
-.footer-right, .footer-right a {
-    color: #bbb;
-}
-
-
 /* 鼠标指示箭头 */
 #arrow {
     display: none;
